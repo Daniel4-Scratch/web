@@ -1,0 +1,22 @@
+{
+  "name": "page",
+  "short_name": "page",
+  "theme_color": "#007bff",
+  "background_color": "#007bff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "https://snapwiki.github.io/assets/images/logo.png",
+      "sizes": "375x375"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Status",
+      "url": "/status",
+      "description": "lol"
+    }
+  ]
+}
